@@ -1,0 +1,30 @@
+.body{
+    background-color: cadetblue;
+}
+center{
+    padding-top: 15%;
+}
+#btn{
+color:white;
+background-color: rgb(15, 64, 97);
+border-radius: 20px;
+align-items: center;
+width: 30%;
+padding: 15px;
+
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 20px auto;
+        height: 10vh;
+        cursor: pointer;
+}
+#btn:hover{
+    background-color: rgb(35, 94, 117);
+    transition: 0.5s;
+}
+#about{
+    color: rgb(16, 17, 61);
+
+}
